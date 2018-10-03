@@ -1,4 +1,3 @@
-package uf4p01;
 /**
 Autores: Max, Eric, Luis.
  */
