@@ -1,24 +1,18 @@
-/**
-Autores: Max, Eric, Luis.
- */
-import java.util.Scanner;
-public class proyectogrupom08 {
-
-    public static Scanner in = new Scanner(System.in);
+public class freixa {
 
     public static void main(String[] args) {
         
     }
     
-    private static void metodo1() {
-        System.out.print("Esto es el metodo 1.");
+    private static void max() {
+        System.out.print("Esto es un poco de codigo");
     }
     
-    private static void metodo2() {
-        System.out.print("Esto es el metodo 2.");
+    private static void eric() {
+        
     }
     
-    private static void metodo3() {
-        System.out.print("Esto es el metodo 3.");
+    private static void luis() {
+        
     }   
 }
