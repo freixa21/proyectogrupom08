@@ -8,7 +8,8 @@ public class Llorente {
     }
     
     public static void luis() {
-       
+     System.out.print ("HOLA BUENAS TARDES");
+        
     }
 
     public static void max() {
