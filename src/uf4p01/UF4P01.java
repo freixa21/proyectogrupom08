@@ -11,9 +11,13 @@ public class UF4P01 {
     
     public static void main(String[] args) {
         metode1();
+        metode2();
     }
     
     private static void metode1() {
+    }
+    
+    private static void metode2() {
     }
     
 }
