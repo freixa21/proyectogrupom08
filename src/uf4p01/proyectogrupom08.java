@@ -8,7 +8,7 @@ public class proyectogrupom08 {
     public static Scanner in = new Scanner(System.in);
 
     public static void main(String[] args) {
-        metodo1();
+        
     }
     
     private static void metodo1() {
