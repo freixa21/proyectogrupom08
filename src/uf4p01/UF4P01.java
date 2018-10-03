@@ -26,7 +26,7 @@ public class UF4P01 {
     }
     
     private static void fantasma() {
-        
+        System.out.println("Això es una mica de codi");
     }
     
     
