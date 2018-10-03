@@ -13,6 +13,7 @@ public class UF4P01 {
         metode1();
         metode2();
         metode3();
+        fantasma();
     }
     
     private static void metode1() {
@@ -22,8 +23,12 @@ public class UF4P01 {
     }
     
     private static void metode3() {
+    }
+    
+    private static void fantasma() {
         
     }
+    
     
     
 }
