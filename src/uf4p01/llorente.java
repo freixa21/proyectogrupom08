@@ -7,16 +7,16 @@ public class Llorente {
         // TODO code application logic here
     }
     
-    public static int suma() {
-    return 0;    
+    public static void luis() {
+       
     }
 
-    public static int resta() {
-    return 0;    
+    public static void max() {
+        
     }
 
-    public static int multi() {
-    return 0;
+    public static void eric() {
+   
     }
     
  }
