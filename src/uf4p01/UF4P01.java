@@ -12,6 +12,7 @@ public class UF4P01 {
     public static void main(String[] args) {
         metode1();
         metode2();
+        metode3();
     }
     
     private static void metode1() {
@@ -19,5 +20,10 @@ public class UF4P01 {
     
     private static void metode2() {
     }
+    
+    private static void metode3() {
+        
+    }
+    
     
 }
