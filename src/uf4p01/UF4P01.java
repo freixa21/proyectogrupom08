@@ -26,7 +26,6 @@ public class UF4P01 {
     }
     
     private static void fantasma() {
-        System.out.println("Això es codi modificat");
     }
     
     
