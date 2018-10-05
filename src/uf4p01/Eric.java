@@ -13,15 +13,5 @@ public static void Eric (){
     System.out.print ("Quiero crear conflicto :) ");
     
 }
-public static void Luis (){
-    System.out.print ("HOLAAA");
-}
-public static void Max(){
-    
-}
 
-    public static void Max(){
-    
-}
-    
 }
