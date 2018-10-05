@@ -4,7 +4,8 @@ public class Tienda {
 
     }
 public static void Eric (){
-    System.out.println("Aquest mètode es de l'Eric");
+    System.out.println("Aquest mètode es fals");
+    
 }
 public static void Luis (){
     System.out.print ("HOLAAA");
