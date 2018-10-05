@@ -5,6 +5,7 @@ public class Tienda {
     }
 public static void Eric (){
     System.out.println("Aquest mètode es fals");
+    System.out.print ("Quiero crear conflicto :) ");
     
 }
 public static void Luis (){
