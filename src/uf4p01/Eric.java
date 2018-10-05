@@ -8,9 +8,8 @@ public static void Eric (){
     System.out.print ("Quiero crear conflicto :) ");
     
 }
-    public static void Eric (){
+    public static void Modificado (){
     System.out.println("Aquest mètode es fals");
-    System.out.print ("Quiero crear conflicto :) ");
     
 }
 
