@@ -7,16 +7,16 @@ public class Llorente {
         // TODO code application logic here
     }
     
-    public static void luis() {
+    public static void mia() {
      System.out.print ("HOLA BUENAS TARDES");
         
     }
 
-    public static void max() {
+    public static void clas1() {
         
     }
 
-    public static void eric() {
+    public static void clas2() {
    
     }
     
