@@ -12,8 +12,8 @@ public class Llorente {
         
     }
 
-    public static void clas1() {
-        
+    public static void modificadoEric() {
+        System.out.print("Hola ^.^/ ");
     }
 
     public static void clas2() {
