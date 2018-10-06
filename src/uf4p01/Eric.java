@@ -13,4 +13,7 @@ public static void Eric (){
     
 }
 
-}
+    public static void Otromas (){
+    System.out.print("Esto es más codigo");
+    }   
+ }
