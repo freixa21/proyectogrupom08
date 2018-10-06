@@ -9,7 +9,7 @@ public class freixa {
     }
     
     private static void eric() {
-        
+        System.out.print("Texto y código");
     }
     
     private static void luis() {
